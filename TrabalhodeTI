@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Notícias</title>
+</head>
+<body>
+
+    <!-- Menu -->
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Esportes</a></li>
+            <li><a href="#">Tecnologia</a></li>
+            <li><a href="#">Entretenimento</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo principal -->
+    <main>
+
+        <!-- Seção 1: Destaque -->
+        <section>
+            <h1>Seleção Brasileira de Vôlei garante vaga olímpica com virada histórica</h1>
+            <p>Em um jogo decidido no último set, a equipe mostrou resiliência e superou os rivais. A vitória assegura a participação do Brasil nos próximos jogos, mantendo vivo o sonho da medalha de ouro..</p>
+        </section>
+
+        <!-- Seção 2: Outras notícias -->
+        <section>
+            <h2>Avanço em baterias de estado sólido promete carregar carros elétricos em 5 minutos</h2>
+            <p>Pesquisadores desenvolveram uma nova composição química que reduz drasticamente o tempo de recarga e aumenta a vida útil dos componentes. A inovação pode acelerar a transição global para veículos sustentáveis.</p>
+
+            <article>
+                <h3>Adaptação de jogo premiado bate recordes de audiência no streaming</h3>
+                <p>A nova série inspirada em um clássico dos consoles conquistou crítica e público logo na estreia. A produção já teve sua segunda temporada confirmada devido ao enorme sucesso global..</p>
+            </article>
+
+            <article>
+                <h4>Economia circular ganha força e transforma o consumo urbano</h3>
+                <p>Novas políticas de incentivo ao reaproveitamento de resíduos estão mudando o perfil das grandes cidades. O modelo busca reduzir o desperdício e gerar novos empregos no setor de sustentabilidade.</p>
+            </article>
+        </section>
+
+        <!-- Seção 3: Categoria -->
+        <section>
+            <h2>Esportes</h2>
+            <ul>
+                <li>Vôlei: Brasil garante vaga olímpica.</li>
+                <li>Futebol: Campeão definido nos pênaltis.</li>
+                <li>Tênis: Brasileiro entra no Top 10.</li>
+            </ul>
+        </section>
+
+        <!-- Desafio extra -->
+        <section>
+            <h2>Tecnologia</h2>
+            <ul>
+                <li>Baterias: Carga total em 5 minutos.</li>
+                <li>IA: Novo chat supera humanos.</li>
+                <li>Espaço: Foguete pousa com sucesso.</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>Notícias Para Todos</p>
+        <p>2026</p>
+        <p>Todos os direitos reservados</p>
+    </footer>
+
+</body>
+</html>
